@@ -10,7 +10,7 @@
 
 @interface ViewController ()
 @property (weak, nonatomic) IBOutlet UIActivityIndicatorView *indicator1;
-@property (strong, nonatomic) IBOutlet UIActivityIndicatorView *indicator2;
+@property (strong, nonatomic)  UIActivityIndicatorView *indicator2;
 
 @end
 
